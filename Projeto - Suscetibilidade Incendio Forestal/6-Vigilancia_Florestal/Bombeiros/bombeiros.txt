@@ -1,0 +1,13 @@
+Faro:
+Bombeiros de Faro Cruz-Lusa - 37.014644849860325, -7.935553546968575
+Corpo de Bombeiros Sapadores de Faro - 37.02487289586858, -7.923816203450486
+
+Olhão:
+Bombeiros Municipais de Olhão - 37.03331315293887, -7.8377506561068415
+
+
+Alportel:
+Bombeiros Voluntários de São Brás de Alportel - 37.15209774809422, -7.883766633748653
+
+Tavira:
+Bombeiros Municipais de Tavira - 37.12804778489845, -7.657141440688985
